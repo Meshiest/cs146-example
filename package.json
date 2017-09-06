@@ -1,0 +1,19 @@
+{
+  "name": "cs146-example",
+  "version": "1.0.0",
+  "description": "CS146 example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meshiest/cs146-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meshiest/cs146-example/issues"
+  },
+  "homepage": "https://github.com/Meshiest/cs146-example#readme"
+}
