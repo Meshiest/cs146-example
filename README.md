@@ -15,7 +15,7 @@ Take a tour of Git: (It's only a _little_ confusing in the beginning)
 
 1. Visit [https://github.com/Meshiest/cs146-example](https://github.com/Meshiest/cs146-example)
 2. Fork repo
-  ![](http://i.imgur.com/G5sxlFW.png)
+  ![](https://i.imgur.com/G5sxlFW.png)
 3. Open command line
     * Windows: Open Git Bash
     * Mac/Linux: Open a Terminal
@@ -33,7 +33,7 @@ Take a tour of Git: (It's only a _little_ confusing in the beginning)
     git commit -m "your name CS146A"
     git push
     ```
-    ![](http://i.imgur.com/ZFNMsER.png)
+    ![](https://i.imgur.com/tu25Bu4.png)
 9. Open a pull requests (Come back to my repo, there will be a notification)
-  ![](http://i.imgur.com/YnqPXkb.png)
-  ![](http://i.imgur.com/DP84fpb.png)
+  ![](https://i.imgur.com/YnqPXkb.png)
+  ![](https://i.imgur.com/DP84fpb.png)
