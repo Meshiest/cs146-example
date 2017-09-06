@@ -33,6 +33,7 @@ Take a tour of Git: (It's only a _little_ confusing in the beginning)
     git commit -m "your name CS146A"
     git push
     ```
+    ![](http://i.imgur.com/ZFNMsER.png)
 9. Open a pull requests (Come back to my repo, there will be a notification)
   ![](http://i.imgur.com/YnqPXkb.png)
   ![](http://i.imgur.com/DP84fpb.png)
