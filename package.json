@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Meshiest/cs146-example/issues"
   },
-  "homepage": "https://github.com/Meshiest/cs146-example#readme"
+  "homepage": "https://github.com/Meshiest/cs146-example#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
