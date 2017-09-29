@@ -21,7 +21,7 @@ Take a tour of Git: (It's only a _little_ confusing in the beginning)
     * Mac/Linux: Open a Terminal
 4. Clone the repo:
   `git clone https://github.com/[your git username]/cs146-example.git`
-       * If you get a "Too many arguments" error, remove the brackets from your name
+   * If you get a "Too many arguments" error, remove the brackets from your name
 5. Change directory to the project folder
   `cd repo-name`
 6. Install project dependencies
