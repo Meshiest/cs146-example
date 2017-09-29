@@ -38,6 +38,6 @@ Take a tour of Git: (It's only a _little_ confusing in the beginning)
     ```
     * If this wants you to do some weird `git config --global` thing, read those instructions!
     ![](https://i.imgur.com/tu25Bu4.png)
-9. Open a pull requests (Come back to my repo, there might be a notification, otherwise click "new pull request" on your repo)
+9. Open a pull requests with the same name as your commit message (Come back to my repo, there might be a notification, otherwise click "new pull request" on your repo)
     ![](https://i.imgur.com/YnqPXkb.png)
     ![](https://i.imgur.com/DP84fpb.png)
